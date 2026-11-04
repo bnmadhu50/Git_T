@@ -1,3 +1,6 @@
 Welcome to ITD
 
 Good Morning!!
+
+
+Today is our 2nd class on Git
